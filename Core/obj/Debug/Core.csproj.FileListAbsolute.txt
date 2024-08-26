@@ -1,0 +1,6 @@
+D:\Video Game AI Projects\Ex1 - Flocking\Source\Core\bin\Debug\CoreAI.dll
+D:\Video Game AI Projects\Ex1 - Flocking\Source\Core\bin\Debug\CoreAI.pdb
+D:\Video Game AI Projects\Ex1 - Flocking\Source\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Video Game AI Projects\Ex1 - Flocking\Source\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Video Game AI Projects\Ex1 - Flocking\Source\Core\obj\Debug\CoreAI.dll
+D:\Video Game AI Projects\Ex1 - Flocking\Source\Core\obj\Debug\CoreAI.pdb

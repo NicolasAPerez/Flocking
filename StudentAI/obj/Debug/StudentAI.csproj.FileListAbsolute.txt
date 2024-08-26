@@ -1,0 +1,9 @@
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\bin\Debug\SudentAI.dll
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\bin\Debug\SudentAI.pdb
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\bin\Debug\CoreAI.dll
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\bin\Debug\CoreAI.pdb
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\obj\Debug\StudentAI.csproj.AssemblyReference.cache
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\obj\Debug\StudentAI.csproj.CoreCompileInputs.cache
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\obj\Debug\StudentAI.csproj.CopyComplete
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\obj\Debug\SudentAI.dll
+D:\Video Game AI Projects\Ex1 - Flocking\Source\StudentAI\obj\Debug\SudentAI.pdb
